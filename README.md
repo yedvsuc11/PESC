@@ -7,3 +7,4 @@ A dataset for multi-sound event detection.
 - There are a total of 50 types of sound events, with each audio clip containing 2-3 types of sound events.
 - There are a total of 20,000 audio clips.
 ## Download
+https://drive.google.com/drive/folders/1rq4xbaSvRJKTxOJc55MnWvDCtnQL9r9A?usp=drive_link
